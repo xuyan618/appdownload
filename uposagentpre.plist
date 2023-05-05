@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/downloadServlet?code=S0gwazExV3QzTzQwZGI5MTExN3R1Yzk3SHh2&amp;un=87AC56C4802E871C54FFD86D5200DB21B5ACEE8D75AFC393937912CC018B3670&amp;dom=D973&amp;rate=0&amp;txType=0</string>
+					<string>https://download4.caiyun.feixin.10086.cn/storageWeb/servlet/downloadServlet?code=S0gwazExV3QzTzQwZGIxMTExN3R1Yzk3U3Qw&amp;un=2D36DBA5EE53654BFD7CAB6DC17F537CCC3A8287BFC60415E821BC4C47E0B136&amp;dom=D973&amp;rate=0&amp;txType=0</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://xuyan618.github.io/appdownload/</string>
+					<string>https://gitee.com/umpay/down/raw/master/</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://xuyan618.github.io/appdownload/</string>
+					<string>https://gitee.com/umpay/down/raw/master/</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.umfintech.merchant.upos</string>
+				<string>com.umpay.UpayPersonalIphone</string>
 				<key>bundle-version</key>
-				<string>2.9.4</string>
+				<string>2.9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>联动优POS</string>
+				<string>联动秘书</string>
 			</dict>
 		</dict>
 	</array>
